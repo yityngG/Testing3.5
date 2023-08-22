@@ -22,7 +22,10 @@ namespace WindowsFormsApp1
             {
                 textBox1.Text = "hello world";
             }
- 
+            catch (Exception ex)
+            {
+
+            }
         }
     }
 }
